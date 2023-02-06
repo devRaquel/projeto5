@@ -10,4 +10,4 @@ O código deve rodar em um laço que vai receber propriedades até a pessoa digi
 <h4>Npm init (para iniciar o node).
 <h4>Npm install readline-sync (instalar o pacote readline para pegar inputs no terminal).
 <h4>Node ./index.js (executando o código).
-<img width="450" alt="print-código-index.js" src= "projeto5/print-indexjs.PNG">
+<img width="450" alt="print-código-index.js" src= "https://raw.githubusercontent.com/devRaquel/projeto5/main/print-indexjs.PNG">
